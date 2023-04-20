@@ -11,7 +11,7 @@ This simple HTML file creates a responsive and borderless video player that hide
 4. Enjoy your new disctraction-free video browser.
 
 
-Last update: 17-04-23
+Last update: 20-04-23
 Notes: URLy was built and tested in a macOS environment with Safari but should work fine in any other OS and browser as its a HTML file (for now).
 Whats next: got some ideas in the works for a smoother experience...stay tuned!
 
